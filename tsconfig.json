@@ -16,7 +16,9 @@
     "outDir": "dist",
     "resolveJsonModule": true,
     "noImplicitAny": false,
-    "noImplicitThis": false
+    "noImplicitThis": false,
+    "sourceMap": true,
+    "declarationMap": true
   },
   "include": ["./src"],
   "exclude": ["./node_modules/**/*"]

@@ -132,6 +132,5 @@
     "react-dom": {
       "optional": true
     }
-  },
-  "packageManager": "yarn@4.3.1"
+  }
 }
